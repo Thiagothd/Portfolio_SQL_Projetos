@@ -1,0 +1,12 @@
+Calculadora Simples
+
+Este é um script Python simples que funciona como uma calculadora para realizar operações básicas de adição, subtração, multiplicação e divisão.
+
+# Requisitos
+- Python 3 instalado no sistema
+
+# Como Executar
+- Clone o repositório ou baixe o arquivo `calculadora.sh`.
+- Torne o script executável (se ainda não estiver). No terminal, navegue até o diretório onde o script está localizado e execute:
+
+bash chmod +x calculadora.sh
