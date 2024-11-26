@@ -1,0 +1,21 @@
+
+### Como adicionar o README.md ao seu repositório:
+
+1. **Crie o arquivo README.md**:
+   - Crie um arquivo de texto chamado `README.md` na raiz do seu repositório.
+   - Cole o conteúdo do exemplo acima, substituindo as descrições pelos detalhes dos seus projetos SQL.
+
+2. **Adicionar ao Git**:
+   - Se você estiver utilizando Git no seu projeto, adicione o README com o seguinte comando:
+     ```bash
+     git add README.md
+     git commit -m "Adicionando README para o projeto SQL"
+     git push
+     ```
+
+### Detalhes a personalizar:
+- **Nome dos projetos**: Alterar os nomes dos projetos conforme o que você tem.
+- **Descrição de cada projeto**: Explicar um pouco mais sobre o que cada projeto faz, mencionando as tabelas usadas e as consultas SQL.
+- **Requisitos**: Se você usar alguma ferramenta específica para rodar os projetos, adicione as instruções aqui.
+
+Com isso, seu repositório ficará bem documentado e fácil de entender para qualquer pessoa que for acessá-lo! Se precisar de mais alguma coisa, é só me chamar.
